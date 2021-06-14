@@ -1,0 +1,19 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Financing"
+        xmlns:Properties="clr-namespace:Financing.Properties" x:Class="Financing.Accounts.NewBankAccount"
+        mc:Ignorable="d"
+        Title="Add New Bank Account" Height="178.202" Width="326.945">
+    <Grid Background="#FF303030">
+        <TextBox x:Name="AccountNameBox" HorizontalAlignment="Left" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" Margin="106,10,0,0"/>
+        <Label Content="Account Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Margin="10,10,0,0"/>
+        <Label Content="Account Type:" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Margin="10,49,0,0"/>
+        <ComboBox x:Name="AccountTypeBox" HorizontalAlignment="Left" Margin="106,53,0,0" Loaded="AccountTypeBox_Loaded" VerticalAlignment="Top" Width="143"/>
+
+        <Button Content="{x:Static Properties:Resources.Add}" Height="51" FontSize="26" FontFamily="fontAwesome" Click="Add_Click" VerticalAlignment="Bottom" Background="#FF1E2638" Foreground="White" />
+
+    </Grid>
+</Window>

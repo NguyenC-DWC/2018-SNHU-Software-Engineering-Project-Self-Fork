@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WpfViewModelBase</name>
+    </assembly>
+    <members>
+        <member name="T:WpfViewModelBase.RelayCommand">
+            <summary>
+            A command whose sole purpose is to relay its functionality 
+            to other objects by invoking delegates. 
+            The default return value for the CanExecute method is 'true'.
+            <see cref="M:WpfViewModelBase.RelayCommand.RaiseCanExecuteChanged"/> needs to be called whenever
+            <see cref="M:WpfViewModelBase.RelayCommand.CanExecute(System.Object)"/> is expected to return a different value.
+            </summary>
+        </member>
+        <member name="E:WpfViewModelBase.RelayCommand.CanExecuteChanged">
+            <summary>
+            Raised when RaiseCanExecuteChanged is called.
+            </summary>
+        </member>
+        <member name="M:WpfViewModelBase.RelayCommand.#ctor(System.Action)">
+            <summary>
+            Creates a new command that can always execute.
+            </summary>
+            <param name="execute">The execution logic.</param>
+        </member>
+        <member name="M:WpfViewModelBase.RelayCommand.#ctor(System.Action,System.Func{System.Boolean})">
+            <summary>
+            Creates a new command.
+            </summary>
+            <param name="execute">The execution logic.</param>
+            <param name="canExecute">The execution status logic.</param>
+        </member>
+        <member name="M:WpfViewModelBase.RelayCommand.CanExecute(System.Object)">
+            <summary>
+            Determines whether this <see cref="T:WpfViewModelBase.RelayCommand"/> can execute in its current state.
+            </summary>
+            <param name="parameter">
+            Data used by the command. If the command does not require data to be passed, this object can be set to null.
+            </param>
+            <returns>true if this command can be executed; otherwise, false.</returns>
+        </member>
+        <member name="M:WpfViewModelBase.RelayCommand.Execute(System.Object)">
+            <summary>
+            Executes the <see cref="T:WpfViewModelBase.RelayCommand"/> on the current command target.
+            </summary>
+            <param name="parameter">
+            Data used by the command. If the command does not require data to be passed, this object can be set to null.
+            </param>
+        </member>
+        <member name="M:WpfViewModelBase.RelayCommand.RaiseCanExecuteChanged">
+            <summary>
+            Method used to raise the <see cref="E:WpfViewModelBase.RelayCommand.CanExecuteChanged"/> event
+            to indicate that the return value of the <see cref="M:WpfViewModelBase.RelayCommand.CanExecute(System.Object)"/>
+            method has changed.
+            </summary>
+        </member>
+        <member name="T:WpfViewModelBase.ViewModelBase">
+            <summary>
+            Contains definition for PropertyChanged and RelayCommands
+            </summary>
+        </member>
+    </members>
+</doc>

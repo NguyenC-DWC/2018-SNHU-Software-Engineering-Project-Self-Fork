@@ -1,0 +1,28 @@
+﻿<Window x:Class="Financing.Transactions.EditTransaction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:p = "clr-namespace:Financing.Properties"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Financing.Transactions"
+        mc:Ignorable="d"
+        Title="{x:Static p:Resources.EditTransaction}" Height="277" Width="455.438" Background="#FF303030" ResizeMode="CanMinimize">
+    <Grid>
+        <DatePicker x:Name="TransactionDateBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="130,19,0,0" RenderTransformOrigin="0.392,2.917" Width="102"/>
+        <Label Content="{x:Static p:Resources.DateOfTransaction}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,17,0,0" RenderTransformOrigin="0.148,0.538" Foreground="White"/>
+        <Label Content="{x:Static p:Resources.TypeOfTransaction}" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="{x:Static p:Resources.DescriptionColon}" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="{x:Static p:Resources.TransactionAmount}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="310,17,0,0" Foreground="White"/>
+        <ComboBox x:Name="TransactionTypeBox" HorizontalAlignment="Left" Margin="130,52,0,0" VerticalAlignment="Top" Width="120" Loaded="TransactionTypeBox_Loaded" SelectionChanged="TransactionTypeBox_SelectionChanged"/>
+        <TextBox x:Name="TransactionDescriptionText" HorizontalAlignment="Left" Height="83" Margin="10,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" VerticalScrollBarVisibility="Visible"/>
+        <TextBox x:Name="AmountTextInput" HorizontalAlignment="Left" Height="23" Margin="310,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="NumberValidationTextBox"/>
+        <Label Content="{x:Static p:Resources.Currency}" HorizontalAlignment="Left" Margin="289,52,0,0" VerticalAlignment="Top" Height="23" Width="16" Foreground="White"/>
+        <Button Content="{x:Static p:Resources.Confirm}" VerticalAlignment="Top" Click="Edit_Click" Margin="362,216,0,0" Foreground="White" Background="#FF1E2638" HorizontalAlignment="Left" Width="75"/>
+        <Button Content="{x:Static p:Resources.Delete}" HorizontalAlignment="Left" Margin="10,216,0,0" VerticalAlignment="Top" Width="75" Click="Delete_Click" Foreground="White" Background="#FF1E2638"/>
+        <ComboBox x:Name="TransactionCategoryBox" HorizontalAlignment="Left" Margin="310,166,0,0" VerticalAlignment="Top" Width="120" Loaded="TransactionCategoryBox_Loaded"/>
+        <Label Content="{x:Static p:Resources.CategoryColon}" HorizontalAlignment="Left" Margin="237,162,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="{x:Static p:Resources.MerchantColon}" Margin="237,105,0,0" HorizontalAlignment="Left" Width="68" Height="26" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="MerchantInput" Height="26" Width="120" Margin="310,105,0,0" VerticalContentAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Left" />
+
+    </Grid>
+</Window>

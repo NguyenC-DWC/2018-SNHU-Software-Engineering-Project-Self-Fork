@@ -1,0 +1,52 @@
+﻿<Window x:Class="Financing.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:p = "clr-namespace:Financing.Properties"
+        Title="Login" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        SizeToContent="Manual" Height="400" Width="300"
+        WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        MouseDown="Window_MouseDown_1" >
+
+    <Grid>
+        <!--Background Image-->
+        <Image Source="/Financing;component/Images/loginbackground.jpg" Stretch="UniformToFill" />
+
+        <!--App Logo-->
+        <Image Source="/Financing;component/Images/loginImage.png" Height="131" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,-83,22,0" Width="278" Stretch="UniformToFill" />
+
+        <!--exit button-->
+        <Button Content="X" Height="22" HorizontalAlignment="Right" Name="Close_Button" VerticalAlignment="Top" Width="22" Background="#00000000" BorderThickness="0" Cursor="Arrow" ForceCursor="False" ToolTip="Close" Foreground="#FFDADADA" Click="Close_Button_Click" />
+
+        <!--Username label and textbox-->
+        <Label Content="{x:Static p:Resources.UserName}" x:Name="Username_Label" FontSize="17" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FFDADADA" FontFamily="fontAwesome" Margin="15,123,0,252" Padding="0" Height="25" />
+        <Border x:Name="UserNameBorder" BorderBrush="#FFDADADA" BorderThickness="2" CornerRadius="3" Height="30" Width="270" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15,146,0,224">
+            <TextBox x:Name="UsernameTxtBx" VerticalContentAlignment="Center" FontFamily="FontAwesome" BorderThickness="0" TextChanged="UsernameTxtBx_TextChanged" KeyDown="UsernameTxtBx_KeyDown" />
+        </Border>
+
+        <!--Password label and password box-->
+        <Label Content="{x:Static p:Resources.Password}" x:Name="Password_Label" FontSize="17" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FFDADADA" FontFamily="fontAwesome" Margin="15,185,0,190" Padding="0" Height="25" />
+        <Border x:Name="PasswordBorder" BorderBrush="#FFDADADA" BorderThickness="2" CornerRadius="3" Height="30" Width="270" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15,210,0,160" >
+            <PasswordBox x:Name="Password_Box" MaxLength="16" VerticalContentAlignment="Center" FontFamily="FontAwesome" PasswordChar="*" OverridesDefaultStyle="False" SelectionBrush="#FFFFB14A" BorderThickness="0" PasswordChanged="Password_Box_PasswordChanged" Grid.Column="1" KeyDown="Password_Box_KeyDown" />
+        </Border>
+
+        <Label Content="{x:Static p:Resources.ForgotPassword}" Name="ForgotPass_Lbl" FontSize="15" MaxWidth="270" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="FontAwesome" Foreground="White" Margin="40,258,40,124" Padding="0" MouseDown="ForgotPass_Lbl_MouseDown"/>
+
+        <!--Language selector-->
+        <ComboBox x:Name="LangComboBox" SelectedValuePath="Key" FontSize="15" HorizontalAlignment="Left" Margin="15,294,0,80" VerticalAlignment="Center" SelectionChanged="LangComboBox_SelectionChanged" >
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Path=Value}" FontFamily="fontAwesome" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <!--Login button-->
+        <Button Content="{x:Static p:Resources.Login}" x:Name="Login_Button" BorderThickness="0" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Cursor="Hand" FontFamily="FontAwesome" FontSize="28" Background="#FF1E2638" Foreground="#FFDADADA" BorderBrush="#FF1E2638" Click="Login_Button_Click" Padding="0,10" />
+
+        <!--Register Button-->
+        <Border BorderBrush="#FFDADADA" BorderThickness="1" CornerRadius="1" Width="270" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="15,67,0,0">
+            <Button Content="{x:Static p:Resources.NewRegister}" Name="Register_Button" BorderThickness="0" FontSize="17" Cursor="Hand" FontFamily="FontAwesome" Background="#FF555555" Foreground="#FFDADADA" Click="Register_Button_Click" Padding="0" Height="37" />
+        </Border>
+    </Grid>
+</Window>

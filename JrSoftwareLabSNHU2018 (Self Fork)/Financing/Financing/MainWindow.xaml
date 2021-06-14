@@ -1,0 +1,67 @@
+﻿<Window x:Class="Financing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:p = "clr-namespace:Financing.Properties"
+        WindowStartupLocation="CenterScreen"
+        Title="Finance Management" Height="489.692" Width="937.669" Background="#FF303030">
+
+    <Window.Resources>
+        <ResourceDictionary Source="MainWindowStyles.xaml" />
+    </Window.Resources>
+
+    <Grid x:Name="Rooot" Margin="0">
+
+
+
+        <!--Displays list of accounts-->
+        <StackPanel>
+            <Border VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Black" BorderThickness="1">
+                <StackPanel x:Name="AccountSidenav" >
+                    <Label x:Name="AccountLabel" Content="{x:Static p:Resources.Accounts}" Foreground="White" FontSize="16" Width="174" Height="30" Background="#7F485259" BorderBrush="#7F485259" />
+                    <Border BorderThickness="1" BorderBrush="Black" />
+                </StackPanel>
+            </Border>
+            <Button x:Name="Add_New_Account" Content="Add New Account" Style="{StaticResource AccountButton}" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Add_Account_Click"/>
+        </StackPanel>
+
+        <GroupBox x:Name="TransactionTableHeader" Header="Transactions" FontFamily="fontAwesome" FontSize="18" Foreground="White" HorizontalAlignment="Left" Height="305" VerticalAlignment="Top" Width="608" Margin="178,0,0,0" Background="#7F3A515F" BorderBrush="#FF404040">
+            <ListView x:Name="TransList" FontFamily="fontAwesome" FontSize="12" MouseDoubleClick="TransList_MouseDoubleClick" ButtonBase.Click="TransactionListSort" Background="#7F3A515F" Foreground="White" BorderThickness="0" BorderBrush="Black">
+                <ListView.View>
+                    <GridView x:Name="TransListGrid">
+                        <GridViewColumn DisplayMemberBinding="{Binding displayDate}" Header="{x:Static p:Resources.Date}" Width="100"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding Merchant}" Header="{x:Static p:Resources.Merchant}" Width="100"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding Description}" Header="{x:Static p:Resources.Description}" Width="150"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding displayType}" Header="{x:Static p:Resources.Type}" Width="100"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding displayAmount}" Header="{x:Static p:Resources.Amount}" Width="50"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding displayCategory}" Header="{x:Static p:Resources.Category}" Width="80"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </GroupBox>
+
+        <TextBlock x:Name="Balance" Foreground="White" HorizontalAlignment="Left" Margin="231,342,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
+        <Label Content="Balance:" Foreground="White" HorizontalAlignment="Left" Margin="178,337,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="0.472,-0.077"/>
+
+        <StackPanel Margin="788,0,-5,29">
+            <Label Content="Actions:" BorderThickness="1,1,1,1" FontFamily="fontAwesome" FontSize="15" Background="#7F485259" Foreground="#FFDADADA" BorderBrush="Black" />
+            <Button x:Name="Add_Transaction" Content="{x:Static p:Resources.AddTransaction}" HorizontalContentAlignment="Left" BorderThickness="1,0,1,1" FontFamily="fontAwesome" FontSize="15" Background="#7F3A515F" Foreground="#FFDADADA" Click="Add_Trans_Click" BorderBrush="Black" Margin="0" Padding="1,4"  />
+            <Button x:Name="Export" Content="Export Transactions" HorizontalContentAlignment="Left" BorderThickness="1,0,1,1" FontFamily="FontAwesome" FontSize="15" Background="#7F3A515F" Foreground="#FFDADADA" Click="Export_Click" BorderBrush="Black" Padding="1,4" />
+        </StackPanel>
+
+        <Label x:Name="FilterLabel" Content="{x:Static p:Resources.Filter}" Foreground="White" HorizontalAlignment="Left" Margin="178,305,0,0" VerticalAlignment="Top" Height="29" Width="108"/>
+        <TextBox x:Name="FilterBox" HorizontalAlignment="Left" Height="24" Margin="286,310,0,0" VerticalAlignment="Top" Width="160" TextChanged="FilterBox_TextChanged"/>
+
+        <GroupBox x:Name="CashFlowGroupBox" Header="Cash Flow" Foreground="White" FontSize="18" Margin="532,310,144,65" >
+            <Grid>
+                <StackPanel Margin="2,0,0,0" Width="140" HorizontalAlignment="Left">
+                    <ProgressBar x:Name="PositiveCashFlowBar" Minimum="0" HorizontalAlignment="Stretch" Height="20" VerticalAlignment="Top" Padding="0" Margin="0,3,0,0" />
+                    <ProgressBar x:Name="NegativeCashFlowBar" Minimum="0" HorizontalAlignment="Stretch" Height="20" VerticalAlignment="Top" Foreground="#FFB00606" Padding="0" Margin="0,6,0,0" />
+                </StackPanel>
+                <StackPanel Margin="142,0,0,0" Grid.ColumnSpan="2">
+                    <Label x:Name="Earned_lbl" Content="Earned" Height="23" FontSize="11" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Center" />
+                    <Label x:Name="Spent_lbl" Content="Spent" Height="28" FontSize="11" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Center" Margin="0" />
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

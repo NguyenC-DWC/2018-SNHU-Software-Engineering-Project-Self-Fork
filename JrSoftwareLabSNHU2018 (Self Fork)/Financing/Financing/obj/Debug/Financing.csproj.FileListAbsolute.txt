@@ -1,0 +1,139 @@
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Account\Login.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\AccountSettings.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Account\Login.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Account\Register.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\AddTransaction.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\EditTransaction.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\TransactionWindow.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\App.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing_MarkupCompile.cache
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing_MarkupCompile.lref
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\Financing.exe.config
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\Financing.exe
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\Financing.pdb
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\WpfViewModelBase.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\WpfViewModelBase.xml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\AccountSettings.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Account\Register.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\MainWindow.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\AddTransaction.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\EditTransaction.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\TransactionWindow.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.g.resources
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.resources
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csproj.GenerateResource.cache
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csproj.CopyComplete
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.exe
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.pdb
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\MainWindowStyles.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Account\FoundAccount.g.cs
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Account\FoundAccount.baml
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csprojAssemblyReference.cache
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\it-IT\Financing.resources.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\fr-FR\Financing.resources.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.it-IT.resources
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.fr-FR.resources
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\it-IT\Financing.resources.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\fr-FR\Financing.resources.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\en-US\Financing.resources.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.en-US.resources
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\en-US\Financing.resources.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\es-ES\Financing.resources.dll
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.es-ES.resources
+C:\Users\Christopher Nguyen\Source\Repos\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\es-ES\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\Financing.exe.config
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\Financing.exe
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\Financing.pdb
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\it-IT\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\es-ES\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\fr-FR\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\en-US\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\WpfViewModelBase.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\bin\Debug\WpfViewModelBase.xml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\MainWindowStyles.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\AccountSettings.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\AddTransaction.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\EditTransaction.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\TransactionWindow.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\App.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing_MarkupCompile.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing_MarkupCompile.lref
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\AccountSettings.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\MainWindow.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\AddTransaction.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\EditTransaction.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Transactions\TransactionWindow.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.g.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.it-IT.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.es-ES.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.fr-FR.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.Properties.Resources.en-US.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csproj.GenerateResource.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\it-IT\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\es-ES\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\fr-FR\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\en-US\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csproj.CopyComplete
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.exe
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.pdb
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Profiles\FoundAccount.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Profiles\Login.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Profiles\Register.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Profiles\FoundAccount.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Profiles\Login.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Profiles\Register.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Accounts\NewBankAccount.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Accounts\NewBankAccount.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018\Financing\Financing\obj\Debug\Financing.csprojAssemblyReference.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\Financing.exe.config
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\Financing.exe
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\Financing.pdb
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\it-IT\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\es-ES\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\fr-FR\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\en-US\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\WpfViewModelBase.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\bin\Debug\WpfViewModelBase.xml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.csprojAssemblyReference.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\MainWindowStyles.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\AccountSettings.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Profiles\FoundAccount.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Profiles\Login.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Profiles\Register.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Accounts\NewBankAccount.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Transactions\AddTransaction.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Transactions\EditTransaction.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Transactions\TransactionWindow.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\App.g.cs
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing_MarkupCompile.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing_MarkupCompile.lref
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\AccountSettings.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Profiles\FoundAccount.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Profiles\Login.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Profiles\Register.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\MainWindow.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Accounts\NewBankAccount.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Transactions\AddTransaction.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Transactions\EditTransaction.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Transactions\TransactionWindow.baml
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.g.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.Properties.Resources.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.Properties.Resources.it-IT.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.Properties.Resources.es-ES.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.Properties.Resources.fr-FR.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.Properties.Resources.en-US.resources
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.csproj.GenerateResource.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\it-IT\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\es-ES\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\fr-FR\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\en-US\Financing.resources.dll
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.csproj.CopyComplete
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.exe
+C:\Users\Christopher Nguyen\Desktop\Folders\Other\JrSoftwareLabSNHU2018 (Self Fork)\Financing\Financing\obj\Debug\Financing.pdb
